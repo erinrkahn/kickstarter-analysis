@@ -8,7 +8,7 @@ Performing analysis on kickstarter data
 * No journalism campaigns were successful 
 ---
 ### Subcategory Outcomes
-![alt tag](http://url/to/img.png)
+![alt tag](https://user-images.githubusercontent.com/77405273/105950482-4ef91280-6023-11eb-9657-37bdd75fb647.png)
 ---
 1 Plays were the most successful subcategory of campaign 
 2 Spaces were succeeded and failed equally
