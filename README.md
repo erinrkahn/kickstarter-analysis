@@ -2,7 +2,7 @@
 Performing analysis on kickstarter data
 ## Key Findings
 ### Parent Category Outcomes
-![alt tag](http://url/to/img.png)
+![alt tag](https://user-images.githubusercontent.com/77405273/105950457-44d71400-6023-11eb-83a3-ad78d063e609.png)
 ---
 * Theater, Music and Fil & Video were more frequently successful than not
 * No journalism campaigns were successful 
