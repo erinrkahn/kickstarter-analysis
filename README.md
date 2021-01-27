@@ -16,5 +16,5 @@ Performing analysis on kickstarter data
 ### Outcomes Based on Launch Date
 ![alt tag](https://user-images.githubusercontent.com/77405273/105950487-528c9980-6023-11eb-8c04-dd4a74554361.png)
 ---
--***May*** was the most successful launch month
--The highest rate of failed campaigns occurred in May and October
+- ***May*** was the most successful launch month
+- The highest rate of failed campaigns occurred in May and October
