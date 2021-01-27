@@ -14,7 +14,7 @@ Performing analysis on kickstarter data
 2 Spaces were succeeded and failed equally
 ---
 ### Outcomes Based on Launch Date
-![alt tag](http://url/to/img.png)
+![alt tag](https://user-images.githubusercontent.com/77405273/105950487-528c9980-6023-11eb-8c04-dd4a74554361.png)
 ---
 - May was the most successful launch month
 - The highest rate of failed campaigns occurred in January, June, July and October
