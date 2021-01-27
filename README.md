@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on kickstarter data
+- [data-1-1-3-StarterBook_KAHN](path/to/data-1-1-3-StarterBook_KAHN.xlxs)
 ## Key Findings
 ### Parent Category Outcomes
 ![alt tag](https://user-images.githubusercontent.com/77405273/105950457-44d71400-6023-11eb-83a3-ad78d063e609.png)
