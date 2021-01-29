@@ -32,6 +32,6 @@ This analysis looked at the outcomes of Kickstart campaigns in the "Theater" cat
 
 - What are some other possible tables and/or graphs that we could create?
  
- It would be helpful to include a percentage overlay on the "Theater Outcomes Based on Launch Date" graph as the comparison between successful and failed campaigns can visually be misleading. For example, March and August had a similar ratio of successful campaigns to failed campaigns, but because the graph exhibits a higher count of successful campaigns in August it appears to be a more adventageous month to launch vs March, which may not be the case.
+  - It would be helpful to include a percentage overlay on the "Theater Outcomes Based on Launch Date" graph as the comparison between successful and failed campaigns can visually be misleading. For example, March and August had a similar ratio of successful campaigns to failed campaigns, but because the graph exhibits a higher count of successful campaigns in August it appears to be a more adventageous month to launch vs March, which may not be the case.
   
   
