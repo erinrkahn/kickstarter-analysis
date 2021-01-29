@@ -24,20 +24,23 @@ I experienced challenges when completing the "Outcomes Based on Goals Analysis".
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
   - Kickstarter campaigns that were launched in late spring/early summer (May/June) exhibited higher rates of success than other months (111 and 100 campaigns respectively).
   - Campaigns launched in December almost equally succeeded (37 campaigns) and failed (35 campaigns). It is not recommedned to launch a campaign during this month.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
+
   - Campaigns that had a goal less than $5000 had the highest rate of success (73-76%) and campaigns with goals greater than $35,000, but less than $45,000 demonstrated the next highest success rate at 67%.
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
+
   - We could have removed some of the outlying goals that were much higher that the majority of Kickstarter campaigns to hone in on more accurate success metrics for Louise. 
    - In the "Outcomes Based on Goals Analysis", the graph can be misleading for the higher amounts because the dataset is so small. For example in the $40,000 to $50,000 range. 
    - Including both count and percent in both graphs would provide an extra layer of clarity for successful and unsuccessful campaign.
    - Data that represents more recent theater campaigns would be beneficial to our recommendations for Louise. 
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
  
   - It would be helpful to include a percentage overlay on the "Theater Outcomes Based on Launch Date" graph as the comparison between successful and unsuccessful campaigns can visually be misleading. For example, March and August had a similar ratio of successful campaigns to failed campaigns, but because the graph exhibits a higher count of successful campaigns in August it appears to be a more adventageous month to launch vs March, which may not be the case. Conversely, a count overlay would be helpful on the "Outcomes Based on Goal" graph to add perspective to some of the percentages that are based on very few counts. 
   - We could provide Lousie with a graph that exhibited the percentage of failed "play" campaigns within each $5,000 increment where the pledge came within 10% of its goal. Instead of grouping all failed campaigns, we might find that in one range, most failed campaigns came quite close to their goal. This would provide an added layer of clarity for Louise in choosing a goal amount. 
