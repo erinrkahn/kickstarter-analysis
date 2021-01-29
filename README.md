@@ -9,7 +9,8 @@ The purpose of this analysis is to provide Louise, the client, with a clear pict
 
 ### Analysis of Outcomes Based on Launch Date
 This analysis looked at the outcomes of Kickstart campaigns in the "Theater" category over the years 2014-2016. The outcomes success, failure and 
-
+## Visual
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/77405273/106233651-da051480-61ab-11eb-8492-9e6f7072ce20.png)
 
 ### Analysis of Outcomes Based on Goals
 ## Visual
