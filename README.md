@@ -14,7 +14,7 @@ This analysis looked at the outcomes of Kickstart campaigns in the "Theater" cat
 
 ### Analysis of Outcomes Based on Goals
 ## Visual
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/77405273/106233647-d83b5100-61ab-11eb-865a-199e42a9f5ea.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/77405273/106234020-bee6d480-61ac-11eb-819d-7d1c6c8f9adb.png)
 
 ### Challenges and Difficulties Encountered
 
